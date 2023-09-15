@@ -30,5 +30,11 @@
     <ClCompile Include="charNstring.cpp">
       <Filter>소스 파일\Session2</Filter>
     </ClCompile>
+    <ClCompile Include="Operator.cpp">
+      <Filter>소스 파일\Session2</Filter>
+    </ClCompile>
+    <ClCompile Include="comparisonNlogic.cpp">
+      <Filter>소스 파일\Session2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
