@@ -36,5 +36,8 @@
     <ClCompile Include="comparisonNlogic.cpp">
       <Filter>소스 파일\Session2</Filter>
     </ClCompile>
+    <ClCompile Include="bitoperatorNbitflag.cpp">
+      <Filter>소스 파일\Session2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
