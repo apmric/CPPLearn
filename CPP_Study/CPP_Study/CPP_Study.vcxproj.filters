@@ -39,5 +39,11 @@
     <ClCompile Include="bitoperatorNbitflag.cpp">
       <Filter>소스 파일\Session2</Filter>
     </ClCompile>
+    <ClCompile Include="constNmemory.cpp">
+      <Filter>소스 파일\Session2</Filter>
+    </ClCompile>
+    <ClCompile Include="Notice.cpp">
+      <Filter>소스 파일\Session2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
