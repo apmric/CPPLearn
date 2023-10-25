@@ -54,5 +54,11 @@
     <ClCompile Include="Loop.cpp">
       <Filter>소스 파일\Session3</Filter>
     </ClCompile>
+    <ClCompile Include="praticeSTARNDAN.cpp">
+      <Filter>소스 파일\Session3</Filter>
+    </ClCompile>
+    <ClCompile Include="praticeRSPGAME.cpp">
+      <Filter>소스 파일\Session3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
