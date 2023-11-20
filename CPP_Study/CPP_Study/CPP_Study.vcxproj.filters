@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\Session3">
       <UniqueIdentifier>{119098c8-ce39-4b32-b546-5fabc903431a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Session4">
+      <UniqueIdentifier>{dfc91917-8633-426a-a4a2-5527c0ee8c50}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CPP_Study.cpp">
@@ -59,6 +62,12 @@
     </ClCompile>
     <ClCompile Include="praticeRSPGAME.cpp">
       <Filter>소스 파일\Session3</Filter>
+    </ClCompile>
+    <ClCompile Include="Enum.cpp">
+      <Filter>소스 파일\Session3</Filter>
+    </ClCompile>
+    <ClCompile Include="Basic_Function.cpp">
+      <Filter>소스 파일\Session4</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

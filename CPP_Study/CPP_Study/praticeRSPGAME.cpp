@@ -1,6 +1,18 @@
 #include <iostream>
 using namespace std;
 
+// 상수인건 알겠는데 너무 따로따로 노는 느낌?
+// 하나의 세트로 관리
+
+// 숫자를 지정 안하면 첫 값은 0부터 시작
+// 그 다음 값들은 이전 값 + 1
+enum ENUM_SRP
+{
+	ENUM_SCISSORS = 1,
+	ENUM_ROCK,
+	ENUM_PAPER
+};
+
 int main()
 {
 #pragma region 강사풀이
