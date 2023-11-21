@@ -69,5 +69,11 @@
     <ClCompile Include="Basic_Function.cpp">
       <Filter>소스 파일\Session4</Filter>
     </ClCompile>
+    <ClCompile Include="StackFrame.cpp">
+      <Filter>소스 파일\Session4</Filter>
+    </ClCompile>
+    <ClCompile Include="Localmember.cpp">
+      <Filter>소스 파일\Session4</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
