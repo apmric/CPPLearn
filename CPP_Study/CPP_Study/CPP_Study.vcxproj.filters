@@ -72,7 +72,13 @@
     <ClCompile Include="StackFrame.cpp">
       <Filter>소스 파일\Session4</Filter>
     </ClCompile>
-    <ClCompile Include="Localmember.cpp">
+    <ClCompile Include="LocalValue.cpp">
+      <Filter>소스 파일\Session4</Filter>
+    </ClCompile>
+    <ClCompile Include="CallStack.cpp">
+      <Filter>소스 파일\Session4</Filter>
+    </ClCompile>
+    <ClCompile Include="FinishUpFunction.cpp">
       <Filter>소스 파일\Session4</Filter>
     </ClCompile>
   </ItemGroup>
