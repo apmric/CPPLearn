@@ -81,5 +81,8 @@
     <ClCompile Include="FinishUpFunction.cpp">
       <Filter>소스 파일\Session4</Filter>
     </ClCompile>
+    <ClCompile Include="TextRPG.cpp">
+      <Filter>소스 파일\Session4</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
